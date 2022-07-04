@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Choochy
+- 👋 Hi, I’m @Jordan
 - 👀 I’m interested in Azure DevOps
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on Automation
